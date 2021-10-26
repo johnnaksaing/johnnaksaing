@@ -1,4 +1,4 @@
-### John Naksiang(YIM JeongJae) 👋
+### John Naksaing(YIM JeongJae) 👋
 
 Game Developer
 
