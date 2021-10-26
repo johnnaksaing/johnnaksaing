@@ -1,5 +1,20 @@
 ### John Naksiang(YIM JeongJae) 👋
 
+Game Developer
+
+🔭 I’m currently working on ...
+- SmilegateRPG Intern (2021.7 ~ 2021.9)
+- Hanyang Univ. CSE (2015.2 ~ 2022. 2)
+
+🌱 I’m currently learning ...
+- Unreal Engine(3,4,5)
+- C++, Modern C++
+- Computer Graphics
+
+👯 I’m looking to collaborate on ...
+- SolveGuys(2021.10 ~, [Link](https://github.com/choisb/AlgorithmStudy))
+- Hanyang Univ. Game Developer's Club OOPArts(2015 ~, [Link](https://cafe.naver.com/oopartian))
+
 <!--
 **johnnaksaing/johnnaksaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
