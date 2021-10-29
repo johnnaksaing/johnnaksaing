@@ -3,7 +3,7 @@
 Game Developer
 
 🔭 I’m currently working on ...
-- SmilegateRPG Intern (2021.7 ~ 2021.9)
+- SmilegateRPG(LostArk) Intern (2021.7 ~ 2021.9)
 - Hanyang Univ. CSE (2015.2 ~ 2022. 2)
 
 🌱 I’m currently learning ...
