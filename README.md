@@ -1,6 +1,6 @@
 ### John Naksaing(YIM JeongJae) 👋
 
-Game Developer
+훌륭한 개발자가 되고 싶어요.....
 
 🔭 I’m currently working on ...
 - SmilegateRPG([LostArk](https://www.playlostark.com)) Intern (2021.7 ~ 2021.9)
