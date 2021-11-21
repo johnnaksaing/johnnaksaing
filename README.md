@@ -12,7 +12,7 @@
 - Computer Graphics
 
 👯 I’m looking to collaborate on ...
-- SolveGuys(2021.10 ~, [Link](https://github.com/choisb/AlgorithmStudy))
+- SolveGuys(2021.10 ~, [Link](https://github.com/SolveGuys))
 - Hanyang Univ. Game Developer's Club OOPArts(2015 ~, [Link](https://cafe.naver.com/oopartian))
 
 <!--
