@@ -8,7 +8,8 @@
 
 🌱 I’m currently learning ...
 - Unreal Engine(3,4,5)
-- C++, Modern C++
+- Unity3D
+- C++, Modern C++, C#
 - Computer Graphics
 
 👯 I’m looking to collaborate on ...
