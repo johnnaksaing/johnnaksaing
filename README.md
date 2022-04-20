@@ -18,6 +18,7 @@
 - Hanyang Univ. Game Developer's Club OOPArts(2015 ~, [Link](https://cafe.naver.com/oopartian))
 
 <!--
+
 **johnnaksaing/johnnaksaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -30,4 +31,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
