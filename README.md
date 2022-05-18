@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on ...
 - IR studio(2022.2 ~)
-- SBS game academy(2022.3 ~)
+- SBS game academy(2022.3 ~ 2022.6)
 - SmilegateRPG([LostArk](https://www.playlostark.com)) Intern (2021.7 ~ 2021.9)
 - Hanyang Univ. CSE (2015.2 ~ 2022. 8)
 
