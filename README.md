@@ -11,7 +11,7 @@
 🌱 I’m currently learning ....
 - Unreal Engine(3,4,5)
 - Unity3D, C#
-
+- SDL, OpenGL, DirectX
 
 
 - C++, Modern C++, C#
