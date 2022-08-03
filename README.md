@@ -9,8 +9,8 @@
 - Hanyang Univ. CSE (2015.2 ~ 2023. 2)
 
 🌱 I’m currently learning ....
-- Unreal Engine(3,4,5)
-- Unity3D, C#
+- Unreal Engine(3,4,5) 
+- Unity3D 
 - SDL, OpenGL, DirectX
 - C++, Modern C++, C#
 - Computer Graphics
