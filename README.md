@@ -1,4 +1,4 @@
-### John Naksaing(YIM JeongJae) 👋
+### John Naksaing 👋
 
 훌륭한 개발자가 되고 싶어요....
 
