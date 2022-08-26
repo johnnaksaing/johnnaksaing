@@ -19,6 +19,9 @@
 - SolveGuys(2021.10 ~, [Link](https://github.com/SolveGuys))
 - Hanyang Univ. Game Developer's Club OOPArts(2015 ~, [Link](https://cafe.naver.com/oopartian))
 
+⚡ I'm doing a project of ...
+- BulletHell with C++/SDL
+
 <!--
 
 **johnnaksaing/johnnaksaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
