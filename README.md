@@ -20,7 +20,7 @@
 - Hanyang Univ. Game Developer's Club OOPArts(2015 ~, [Link](https://cafe.naver.com/oopartian))
 
 ⚡ I'm doing a project of ...
-- unnamed project : BulletHell with C++/SDL
+- project OSC : BulletHell with C++/SDL
 - MySTL : Re-inventing C++ Standard Template Library
 
 <!--
