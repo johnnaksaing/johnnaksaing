@@ -3,7 +3,7 @@
 훌륭한 개발자가 되고 싶어요 ...
 
 🔭 Career
-- IR studio(2022.2 ~ 2022.09)
+- IR studio(2022.2 ~ 2022.9)
 - SBS game academy(2022.3 ~ 2022.6)
 - SmilegateRPG([LostArk](https://www.playlostark.com)) Intern (2021.7 ~ 2021.9)
 - Hanyang Univ. CSE (2015.2 ~ 2023. 2)
