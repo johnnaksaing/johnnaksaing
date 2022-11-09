@@ -21,7 +21,7 @@
 
 ⚡ On Board Projects
 - project OSC : BulletHell with C++/SDL (2022, [Link](https://github.com/johnnaksaing/BulletHell))
-- MySTL : Re-inventing C++ Standard Template Library
+- MySTL : Re-inventing C++ Standard Template Library [Link](https://github.com/solveguys/mystl)
 
 <!--
 
