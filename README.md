@@ -13,7 +13,7 @@
 - Unity3D 
 - SDL, OpenGL, DirectX
 - C++, Modern C++, C#
-- Computer Graphics
+- Computer Graphics, Shader
 
 👯 Activities
 - SolveGuys(2021.10 ~, [Link](https://github.com/SolveGuys))
