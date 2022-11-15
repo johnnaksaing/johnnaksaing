@@ -14,6 +14,8 @@
 - SDL, OpenGL, DirectX
 - C++, Modern C++, C#
 - Computer Graphics, Shader
+- Data Structure, Algorithms
+- Operating System
 
 👯 Activities
 - SolveGuys(2021.10 ~, [Link](https://github.com/SolveGuys))
