@@ -2,9 +2,6 @@
 
 훌륭한 개발자가 되고 싶어요 ...
 
-* 23일부터 27일까지 자리를 비웁니다.
-* i'm absent at 12.23 ~ 12.27
-
 🔭 Career
 - EA korea([FIFA Online 4](https://www.ea.com/ko-kr/games/fifa/fifa-online-4)) Intern (2023.1 ~ 2023.2)
 - IR studio(2022.2 ~ 2022.9)
