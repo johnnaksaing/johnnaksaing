@@ -4,8 +4,8 @@
 
 🔭 Career
 - EA korea([FIFA Online 4](https://www.ea.com/ko-kr/games/fifa/fifa-online-4)) Intern (2023.1 ~ 2023.2)
-- IR studio(2022.2 ~ 2022.9)
-- SBS game academy(2022.3 ~ 2022.11)
+- IR studio (2022.2 ~ 2022.9)
+- SBS game academy (2022.3 ~ 2022.11)
 - SmilegateRPG([LostArk](https://www.playlostark.com)) Intern (2021.7 ~ 2021.9)
 - Hanyang Univ. CSE (2015.2 ~ 2023. 2)
 
