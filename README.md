@@ -25,7 +25,7 @@
 ⚡ On Board Projects
 - project OSC : BulletHell with C++/SDL (2022, [Link](https://github.com/johnnaksaing/BulletHell))
 - MySTL : Re-inventing C++ Standard Template Library [Link](https://github.com/solveguys/mystl)
-- Unannounced Fan Game
+- Unannounced Fan Game(c++,sdl)
 <!--
 
 **johnnaksaing/johnnaksaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
