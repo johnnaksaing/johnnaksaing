@@ -9,20 +9,19 @@
 - SmilegateRPG([LostArk](https://www.playlostark.com)) Intern (2021.7 ~ 2021.9)
 - Hanyang Univ. CSE (2015.2 ~ 2023. 2)
 
-🌱 Skills
-- Unreal Engine(3,4,5) 
-- Unity3D 
+🌱 Interested In
+- Unreal Engine(3,4,5), Unity
 - SDL, OpenGL, DirectX
 - C++, Modern C++, C#
 - Computer Graphics, Shader
-- Data Structure, Algorithms
+- Data Structure, Algorithms, STL
 - Operating System
 
 👯 Activities
 - SolveGuys(2021.10 ~, [Link](https://github.com/SolveGuys))
 - Hanyang Univ. Game Developer's Club OOPArts(2015 ~, [Link](https://cafe.naver.com/oopartian))
 
-⚡ On Board Projects
+⚡Projects
 - project OSC : BulletHell with C++/SDL (2022, [Link](https://github.com/johnnaksaing/BulletHell))
 - MySTL : Re-inventing C++ Standard Template Library [Link](https://github.com/solveguys/mystl)
 - Unannounced Fan Game(c++,sdl)
