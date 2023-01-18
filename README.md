@@ -16,6 +16,7 @@
 - Computer Graphics, Shader
 - Data Structure, Algorithms, STL
 - Operating System
+- Design Patterns
 
 👯 Activities
 - SolveGuys(2021.10 ~, [Link](https://github.com/SolveGuys))
