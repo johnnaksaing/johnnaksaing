@@ -1,6 +1,6 @@
 ### John Naksaing 👋
 
-훌륭한 개발자가 되고 싶어요 ....
+훌륭한 개발자가 되고 싶어요 ...
 
 🔭 Career
 - EA korea([FIFA Online 4](https://www.ea.com/ko-kr/games/fifa/fifa-online-4)) Intern (2023.1 ~ 2023.2)
