@@ -3,7 +3,7 @@
 훌륭한 개발자가 되고 싶어요 ...
 
 🔭 Career
-- EA korea([FIFA Online 4](https://www.ea.com/ko-kr/games/fifa/fifa-online-4)) Intern (2023.1 ~ 2023.2)
+- EA Korea([FIFA Online 4](https://www.ea.com/ko-kr/games/fifa/fifa-online-4)) Intern (2023.1 ~ 2023.2)
 - IR studio (2022.2 ~ 2022.9)
 - SBS game academy (2022.3 ~ 2022.11)
 - SmilegateRPG([LostArk](https://www.playlostark.com)) Intern (2021.7 ~ 2021.9)
