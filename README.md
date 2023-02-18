@@ -13,7 +13,7 @@
 - Unreal Engine(3,4,5), Unity
 - SDL, OpenGL, DirectX
 - C++, Modern C++, C#
-- Computer Graphics, Shader
+- Computer Graphics, Shader, GPGPU
 - Data Structure, Algorithms, STL
 - Operating System
 - Design Patterns
