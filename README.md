@@ -3,6 +3,7 @@
 훌륭한 개발자가 되고 싶어요 ...
 
 🔭 Career
+- [EA Korea](https://www.ea.com/ea-studios/ea-korea) Client Software Engineer (2023.4 ~ )
 - [EA Korea](https://www.ea.com/ea-studios/ea-korea) Intern (2023.1 ~ 2023.2)
 - IR studio (2022.2 ~ 2022.9)
 - SBS game academy (2022.3 ~ 2022.11)
