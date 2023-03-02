@@ -6,8 +6,6 @@
 🔭 Career
 - [EA Korea](https://www.ea.com/ea-studios/ea-korea) Client Software Engineer (2023.4 ~ )
 - [EA Korea](https://www.ea.com/ea-studios/ea-korea) Intern (2023.1 ~ 2023.2)
-- IR studio (2022.2 ~ 2022.9)
-- SBS game academy (2022.3 ~ 2022.11)
 - SmilegateRPG([LostArk](https://www.playlostark.com)) Intern (2021.7 ~ 2021.9)
 - Hanyang Univ. CSE (2015.2 ~ 2023. 2)
 
@@ -41,4 +39,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👋 
+
+
+- IR studio (2022.2 ~ 2022.9)
+- SBS game academy (2022.3 ~ 2022.11)
 -->
