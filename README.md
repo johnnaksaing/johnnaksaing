@@ -1,13 +1,12 @@
 ### John Naksaing 
 
-
 훌륭한 개발자가 되고 싶어요 ...
 
 🔭 Career
 - [EA Korea](https://www.ea.com/ea-studios/ea-korea) Client Software Engineer (2023.4 ~ )
 - [EA Korea](https://www.ea.com/ea-studios/ea-korea) Intern (2023.1 ~ 2023.2)
 - SmilegateRPG([LostArk](https://www.playlostark.com)) Intern (2021.7 ~ 2021.9)
-- Hanyang Univ. CSE (2015.2 ~ 2023. 2)
+- Hanyang Univ. CSE (2015.2 ~ 2023.2)
 
 🌱 Interested In
 - Unreal Engine(3,4,5), Unity
