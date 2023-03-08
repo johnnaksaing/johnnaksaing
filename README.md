@@ -18,7 +18,7 @@
 - Design Patterns
 
 👯 Activities
-- SolveGuys(2021.10 ~, [Link](https://github.com/SolveGuys))
+- SolveGuys(2021.10 ~ 2023.02, [Link](https://github.com/SolveGuys))
 - Hanyang Univ. Game Developer's Club OOPArts(2015 ~, [Link](https://cafe.naver.com/oopartian))
 
 ⚡Projects
