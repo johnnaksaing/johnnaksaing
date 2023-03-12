@@ -1,6 +1,6 @@
 ### John Naksaing 
 
-훌륭한 개발자가 되고 싶어요 ....
+훌륭한 개발자가 되고 싶어요 ...
 
 🔭 Career
 - [EA Korea](https://www.ea.com/ea-studios/ea-korea) Client Software Engineer (2023.4 ~ )
