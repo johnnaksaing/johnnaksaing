@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👋  
--
 
 - IR studio (2022.2 ~ 2022.9)
 - SBS game academy (2022.3 ~ 2022.11)
