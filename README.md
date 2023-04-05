@@ -2,6 +2,14 @@
 
 훌륭한 개발자가 되고 싶어요 ...
 
+🌱 Interested In
+- Computer Sciences
+- Communication Skills
+- Motivation Control
+- Code Analysis
+- Games!!
+
+
 🔭 Career
 - [EA Korea](https://www.ea.com/ea-studios/ea-korea) Client Software Engineer (2023.4 ~ )
 - [EA Korea](https://www.ea.com/ea-studios/ea-korea) Intern (2023.1 ~ 2023.2)
@@ -17,12 +25,6 @@
 - MySTL : Re-inventing C++ Standard Template Library [Link](https://github.com/solveguys/mystl)
 - Unannounced Fan Game(C++,SDL)
 
-🌱 Interested In
-- Computer Sciences
-- Communications
-- Motivation Control
-- Code Analysis
-- Games!!
 <!--
 **johnnaksaing/johnnaksaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
