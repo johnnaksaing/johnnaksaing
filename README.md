@@ -6,6 +6,7 @@
 - Computer Sciences
 - Communication Skills
 - Motivation Control
+- Mental Health
 - Code Analysis
 - Games!!
 
