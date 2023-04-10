@@ -20,14 +20,14 @@
 - SolveGuys(2021.10 ~ 2023.02, [Link](https://github.com/SolveGuys))
 - Hanyang Univ. Game Developer's Club OOPArts(2015 ~, [Link](https://cafe.naver.com/oopartian))
 
+<!--
+**johnnaksaing/johnnaksaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+
 ⚡ Projects
 - project OSC : BulletHell with C++/SDL (2022, [Link](https://github.com/johnnaksaing/BulletHell))
 - MySTL : Re-inventing C++ Standard Template Library [Link](https://github.com/solveguys/mystl)
 - Unannounced Fan Game(C++,SDL)
-
-<!--
-**johnnaksaing/johnnaksaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 
 🌱 Interested In
 - Unreal Engine(3,4,5), Unity
