@@ -4,6 +4,7 @@
 
 🌱 Interested In
 - Computer Sciences
+- Co-Working
 - Communication Skills
 - Motivation Control
 - Mental Health
