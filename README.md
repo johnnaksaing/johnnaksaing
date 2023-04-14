@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - Operating System
 - Design Patterns
 
-도대체 언제까지 여기다 잔디 만들거냐?
+도대체 언제까지 여기다 잔디 만들거냐? 어??
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
